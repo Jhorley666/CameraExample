@@ -1,2 +1,2 @@
 # CameraExample
- A camera example with kotlin language by  Rolando Atuña
+ A camera example with kotlin programming language by  Rolando Atuña
